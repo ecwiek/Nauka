@@ -5,11 +5,12 @@ Projekt " pozbycie sie zeszyów "
 
 1) Wspomaganie 
 ==========
-
+Pierwsze kroki , nauka odpowiednich **komend** :
 2) Techniki Komputerowe 
 ===========
-Korzytanie z GitHub 
-Informacje o GIT HUB : ![](http://upload.wikimedia.org/wikipedia/commons/b/b3/GitHub.svg)
+Korzytanie z **GitHub**
+Informacje o GIT HUB :
+![](http://upload.wikimedia.org/wikipedia/commons/b/b3/GitHub.svg)
 
 
 http://pl.wikipedia.org/wiki/GitHub
@@ -43,3 +44,6 @@ Najpopularniejsze języki programowania:
 * 18.Groovy
 * 19.MATLAB
 * 20.COBOL
+
+4) Zadania z ćwiczeń Jezyki Programowania 
+-----------------------------------------
