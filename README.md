@@ -1,6 +1,6 @@
 Nauka
 =====
-Projekt " pozbycie sie zeszyów "
+**Projekt "POZBYCIE SIE ZESZYTÓW"**
 
 
 1) Wspomaganie 
@@ -8,8 +8,8 @@ Projekt " pozbycie sie zeszyów "
 Pierwsze kroki , nauka odpowiednich **komend** :
 2) Techniki Komputerowe 
 ===========
-Korzytanie z **GitHub**
-Informacje o GIT HUB :
+Korzytanie z **GitHub**.
+* Informacje o GIT HUB.
 ![](http://upload.wikimedia.org/wikipedia/commons/b/b3/GitHub.svg)
 
 
