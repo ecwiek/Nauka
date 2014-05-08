@@ -40,7 +40,8 @@ Język C++ jest wieloparadygmatowym językiem programowania, m.in. również obi
 
 http://pl.wikipedia.org/wiki/C_(j%C4%99zyk_programowania)
 
-* 2.Java
+* 2.Java  ![](http://cdn.theatlantic.com/static/mt/assets/jamesfallows/java_medium.jpg)
+*
 * 3.Objective-C
 * 4.C++
 * 5.PHP
