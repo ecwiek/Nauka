@@ -33,9 +33,11 @@ W kwietniu 2011 ogłoszono, iż GitHub obsługuje 2 miliony repozytoriów
 =======================
 Najpopularniejsze języki programowania:
 * 1.C
+
 **Programowanie w języku C/C++**
 Język C jest językiem programowania stworzonym na początku lat siedemdziesiątych przez Dennisa Ritchiego do programowania systemów operacyjnych i innych zadań niskiego poziomu.
 Język C++ jest wieloparadygmatowym językiem programowania, m.in. również obiektowo zorientowanym. Stworzony w latach osiemdziesiątych XX wieku przez Bjarne Stroustrupa. Na język C++ wpływ miały, poza językiem C, jako jego podstawą, przede wszystkim Simula, z której zaczerpnął właściwości obiektowe, a także języki takie, jak Algol, Ada, ML i Clu.
+
 * 2.Java
 * 3.Objective-C
 * 4.C++
