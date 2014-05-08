@@ -5,7 +5,13 @@ Nauka
 
 1) Wspomaganie 
 ==========
-Pierwsze kroki , nauka odpowiednich **komend** :
+Pierwsze kroki Markdown, nauka odpowiednich **komend** :
+
+**Markdown** – język znaczników przeznaczony do formatowania tekstu zaprojektowany przez Johna Grubera i Aarona Swartza. Został stworzony w celu jak najbardziej uproszczenia tworzenia i formatowania tekstu. Markdown został oryginalnie stworzony w Perlu, później dostępny w wielu innych. Jest rozpowszechniany na licencji BSD i jest dostępny jako wtyczka do kilku systemów zarządzania treścią.
+
+![](http://pl.wikipedia.org/wiki/Markdown)
+![](http://en.wikipedia.org/wiki/Markdown)
+
 2) Techniki Komputerowe 
 ===========
 Korzytanie z **GitHub**.
