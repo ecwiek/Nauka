@@ -43,7 +43,7 @@ http://pl.wikipedia.org/wiki/C_(j%C4%99zyk_programowania)
 * 2.Java  
 **![](http://cdn.theatlantic.com/static/mt/assets/jamesfallows/java_medium.jpg)**
 
-Java – obiektowy język programowania stworzony przez grupę roboczą pod kierunkiem Jamesa Goslinga z firmy Sun Microsystems. Java jest językiem tworzenia programów źródłowych kompilowanych do kodu bajtowego, czyli postaci wykonywanej przez maszynę wirtualną. Język cechuje się silnym typowaniem. Jego podstawowe koncepcje zostały przejęte z języka Smalltalk (maszyna wirtualna, zarządzanie pamięcią) oraz z języka C++ (duża część składni i słów kluczowych).
+**Java** – obiektowy język programowania stworzony przez grupę roboczą pod kierunkiem Jamesa Goslinga z firmy Sun Microsystems. Java jest językiem tworzenia programów źródłowych kompilowanych do kodu bajtowego, czyli postaci wykonywanej przez maszynę wirtualną. Język cechuje się silnym typowaniem. Jego podstawowe koncepcje zostały przejęte z języka Smalltalk (maszyna wirtualna, zarządzanie pamięcią) oraz z języka C++ (duża część składni i słów kluczowych).
 Javy nie należy mylić ze skryptowym językiem JavaScript, z którym wspólną ma jedynie składnię podstawowych instrukcji.
 Obecnym właścicielem tej technologii jest Oracle Corporation.
 
