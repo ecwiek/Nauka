@@ -49,6 +49,9 @@ Obecnym właścicielem tej technologii jest Oracle Corporation.
 
 * 3.Objective-C
 * 4.C++
+
+**![](http://4.bp.blogspot.com/-hQ3ZnA7vhoo/T-dIa5vgP-I/AAAAAAAAAm8/JCQqtvtMpdw/s1600/cplus.jpg)
+
 * 5.PHP
 * 6.C#
 * 7.(Visual) Basic
