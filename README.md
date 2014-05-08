@@ -52,6 +52,10 @@ Obecnym właścicielem tej technologii jest Oracle Corporation.
 
 ![](http://4.bp.blogspot.com/-hQ3ZnA7vhoo/T-dIa5vgP-I/AAAAAAAAAm8/JCQqtvtMpdw/s1600/cplus.jpg)
 
+**C++ **– język programowania ogólnego przeznaczenia.
+
+Umożliwia abstrakcję danych oraz stosowanie kilku paradygmatów programowania: proceduralnego, obiektowego i generycznego. Charakteryzuje się wysoką wydajnością kodu wynikowego, bezpośrednim dostępem do zasobów sprzętowych i funkcji systemowych, łatwością tworzenia i korzystania z bibliotek (napisanych w C++, C lub innych językach), niezależnością od konkretnej platformy sprzętowej lub systemowej (co gwarantuje wysoką przenośność kodów źródłowych) oraz niewielkim środowiskiem uruchomieniowym. Podstawowym obszarem jego zastosowań są aplikacje i systemy operacyjne.
+
 * 5.PHP
 * 6.C#
 * 7.(Visual) Basic
