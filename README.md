@@ -75,5 +75,19 @@ http://pl.wikipedia.org/wiki/C++
 * 19.MATLAB
 * 20.COBOL
 
-4) Zadania z ćwiczeń Jezyki Programowania 
+4) Przykadowe zadania w jezyku c++ 
 -----------------------------------------
+
+'Hello, World' w C++ 
+----------------------
+  1.  #include <iostream>
+      2.  using namespace std;
+      3.  
+      4.  /*
+      5.      Naukę każdego języka programowania
+      6.      zaczynamy zawsze od HelloWorld!!!!
+      7.   */
+      8.  
+      9.  int main() { // Komentarze jak w Javie
+     10.      cout << "Hello, World!" << endl;
+     11.  }
