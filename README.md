@@ -80,14 +80,14 @@ http://pl.wikipedia.org/wiki/C++
 
 'Hello, World' w C++ 
 ----------------------
-  1.  #include <iostream>
-      2.  using namespace std;
-      3.  
-      4.  /*
-      5.      Naukę każdego języka programowania
-      6.      zaczynamy zawsze od HelloWorld!!!!
-      7.   */
-      8.  
-      9.  int main() { // Komentarze jak w Javie
-     10.      cout << "Hello, World!" << endl;
-     11.  }
+ * 1.  #include <iostream>
+ * 2.  using namespace std;
+ * 3.  
+ * 4.  /*
+ * 5.      Naukę każdego języka programowania
+ * 6.      zaczynamy zawsze od HelloWorld!!!!
+ * 7.   */
+ * 8.  
+ * 9.  int main() { // Komentarze jak w Javie
+ * 10.      cout << "Hello, World!" << endl;
+ *  11.  }
